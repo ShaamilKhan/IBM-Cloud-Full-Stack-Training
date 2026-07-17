@@ -5,6 +5,48 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
+            "name": "Conditional",
+            "request": "launch",
+            "mainClass": "Conditional",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
+            "name": "Arith",
+            "request": "launch",
+            "mainClass": "Arith",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
