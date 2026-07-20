@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "partition",
+            "request": "launch",
+            "mainClass": "partition",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
             "name": "Anagram",
             "request": "launch",
             "mainClass": "Anagram",
