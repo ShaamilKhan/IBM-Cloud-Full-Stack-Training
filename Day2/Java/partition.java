@@ -1,9 +1,12 @@
 import java.util.Scanner;
  
 public class partition {
+    public static int count = 0;
+ 
     public static void printPartitions(int n, int max, String prefix) {
         if (n == 0) {
             System.out.println(prefix);
+            count++;
             return;
         }
         for (int i = Math.min(max, n); i >= 1; i--) {
@@ -17,6 +20,7 @@ public class partition {
         int n = sc.nextInt();
         System.out.println("Partitions of " + n + ":");
         printPartitions(n, n, "");
+        System.out.println("Count of partitions: " + count);
         sc.close();
     }
 }
