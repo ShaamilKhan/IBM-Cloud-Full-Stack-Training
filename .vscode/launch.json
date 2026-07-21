@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "enums",
+            "request": "launch",
+            "mainClass": "enums",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
             "name": "partition",
             "request": "launch",
             "mainClass": "partition",

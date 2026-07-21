@@ -28,6 +28,8 @@ public class Switch {
                 break;
             default:
                 System.out.println("Invalid day");
+
+            sc.close();
         }
     }
 }
