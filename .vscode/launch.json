@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "httpex",
+            "request": "launch",
+            "mainClass": "httpex",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
+            "name": "mutih",
+            "request": "launch",
+            "mainClass": "mutih",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
+            "name": "mutih",
+            "request": "launch",
+            "mainClass": "Day4.mutih",
+            "projectName": "Cloud full stack training_f7212ee0"
+        },
+        {
+            "type": "java",
             "name": "enums",
             "request": "launch",
             "mainClass": "enums",
